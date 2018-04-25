@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://R:\Works\AdvLab2\04\RecyclerView\RecyclerView.iml" filepath="R:\Works\AdvLab2\04\RecyclerView\RecyclerView.iml" />
+      <module fileurl="file://C:\Users\5835512035\Downloads\RecyclerView-master\RecyclerView-master\RecyclerView.iml" filepath="C:\Users\5835512035\Downloads\RecyclerView-master\RecyclerView-master\RecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView-master.iml" filepath="$PROJECT_DIR$/RecyclerView-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://R:\Works\AdvLab2\04\RecyclerView\app\app.iml" filepath="R:\Works\AdvLab2\04\RecyclerView\app\app.iml" />
+    </modules>
+  </component>
+</project>

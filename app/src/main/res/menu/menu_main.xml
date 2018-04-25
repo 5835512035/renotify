@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/file"
+        android:title="File">
+        <menu>
+            <item
+                android:id="@+id/mnuNew"
+                android:icon="@drawable/bg"
+                android:title="New" />
+            <item
+                android:id="@+id/mnuOpen"
+                android:title="Open" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/btn_show_notification"
+        android:icon="@drawable/god"
+        app:showAsAction="ifRoom|withText"
+        android:title="Contact" >
+        <menu>
+            <item
+                android:id="@+id/mnuNew2"
+                android:icon="@drawable/modern"
+                android:title="ร้านอาหาร" />
+            <item
+                android:id="@+id/showdialog"
+                android:icon="@drawable/god"
+                android:title="เข้าระบบ" />
+
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/mnuHelp"
+        android:title="Help" />
+</menu>
